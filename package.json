@@ -1,7 +1,7 @@
 {
-  "name": "react-weather",
+  "name": "react-library",
   "version": "1.0.0",
-  "description": "☀🌤⛅🌥 A simple application to search the weather in your city 🌦☁🌧⛈",
+  "description": "📚 My amazing list of the books 💜🙇‍♀️💜",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server --inline --hot",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simoneas02/react-weather.git"
+    "url": "git+https://github.com/simoneas02/react-library.git"
   },
   "keywords": [
     "react",
     "redux",
-    "weather"
+    "library"
   ],
   "author": "Simone Amorim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/simoneas02/react-weather/issues"
+    "url": "https://github.com/simoneas02/react-library/issues"
   },
-  "homepage": "https://github.com/simoneas02/react-weather#readme",
+  "homepage": "https://simoneas02.github.io/react-library",
   "devDependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
