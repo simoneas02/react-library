@@ -1,6 +1,6 @@
-# Title of the project
+# React Library
 
-> Description of the project
+> 📚 My amazing list of the books 💜🙇‍♀️💜
 
 ## Run the project local
 
@@ -12,8 +12,8 @@
 **1 -** Clone the project and install the dependencies:
 
 ```sh
-$ git clone https://github.com/user-name/project-name
-$ cd project-name/
+$ git clone https://github.com/simoneas02/react-library
+$ cd react-library/
 $ yarn
 ```
 
@@ -34,15 +34,15 @@ Go to: [localhost:8080](http://localhost:8080)
 
 ## Contributing
 
-Find on our [issues](https://github.com/user-name/project-name/issues/) the next steps of the project ;)  
-Want to contribute? [Follow these recommendations](https://github.com/user-name/project-name/blob/master/CONTRIBUTING.md).
+Find on our [issues](https://github.com/simoneas02/react-library/issues/) the next steps of the project ;)  
+Want to contribute? [Follow these recommendations](https://github.com/simoneas02/react-library/blob/master/CONTRIBUTING.md).
 
 
 ## History
 
-See [Releases](https://github.com/user-name/project-name/releases) for detailed changelog.
+See [Releases](https://github.com/simoneas02/react-library/releases) for detailed changelog.
 
 
 ## License
 
-[MIT License](https://github.com/user-name/project-name/blob/master/LICENSE.md) © [Your Name](https://user-name.github.io)
+[MIT License](https://github.com/simoneas02/react-library/blob/master/LICENSE.md) © [Simone Amorim](https://simoneas02.github.io)
