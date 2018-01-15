@@ -10,4 +10,4 @@
 
 After your pull request is merged, you can safely delete your branch.
 
-### [<-- Back](https://github.com/simoneas02/react-weather)
+### [<-- Back](https://github.com/user-name/project-name)

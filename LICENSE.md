@@ -1,4 +1,4 @@
-Copyright (c) 2018 Simone Amorim, [simoneas02.github.io](https://simoneas02.github.io/)
+Copyright (c) AAAA Your Name, [user-name.github.io](https://user-name.github.io/)
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -18,4 +18,4 @@ Copyright (c) 2018 Simone Amorim, [simoneas02.github.io](https://simoneas02.gith
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
 
-### [<-- Back](https://github.com/simoneas02/react-weather)
+### [<-- Back](https://github.com/user-name/project-name)
