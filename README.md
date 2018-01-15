@@ -26,6 +26,12 @@ $ yarn start
 Go to: [localhost:8080](http://localhost:8080)
 
 
+## Automatic Tasks
+
+- `$ yarn start`: Watch the files to build and start a static server.
+- `$ yarn build`: Compile and minify public/bundle.js.
+
+
 ## Contributing
 
 Find on our [issues](https://github.com/user-name/project-name/issues/) the next steps of the project ;)  
